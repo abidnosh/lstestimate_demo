@@ -1,6 +1,6 @@
 # MALMÖ-LST project page
 
-Land surface temperature maps of Malmö at 10 m from Sentinel-2 and Landsat: https://rdoorshi.github.io/malmo-lst/
+Land surface temperature maps of Malmö at 10 m from Sentinel-2 and Landsat: https://abidnosh.github.io/lstestimate_demo/
 
 Sustainable Digitalisation Research Centre and Department of Urban Studies, Malmö University. Part of the project *AI-driven Urban Heat and Health Analysis using Satellite Data for Climate-Resilient Planning* (Malmö University with Malmö stad).
 
